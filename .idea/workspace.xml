@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e76991f6-90e3-4d42-93b6-0140f61151d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ecommerce-test-framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3CLiNtQPap7tX2aFYnuffFGj8Dj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for api.tests.test_cart_tests.TestCartAPI.executor": "Run",
+    "Python tests.Python tests for api.tests.test_cart_tests.TestCartAPI.test_get_carts.executor": "Run",
+    "Python tests.Python tests for api.tests.test_user_tests.TestProductAPI.test_get_all_users.executor": "Run",
+    "Python tests.Python tests for ui.tests.test_api_ui_integration.test_cart_badge_after_api_setup.executor": "Run",
+    "Python tests.Python tests for ui.tests.test_cart_ui.test_remove_item_from_cart.executor": "Run",
+    "Python tests.Python tests for ui.tests.test_cart_ui_datadriven.test_remove_item_from_cart.executor": "Run",
+    "Python tests.Python tests for ui.tests.test_e2e_flows.test_checkout_flow.executor": "Run",
+    "Python tests.Python tests for ui.tests.test_login.test_invalid_login_and_verify_error_message.executor": "Run",
+    "Python tests.Python tests for ui.tests.test_login.test_successfully_login.executor": "Run",
+    "Python.test_product_tests.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/homec/PycharmProjects/ecommerce-test-framework/ui/tests"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\homec\PycharmProjects\ecommerce-test-framework\ui\tests" />
+      <recent name="C:\Users\homec\PycharmProjects\ecommerce-test-framework\utils" />
+      <recent name="C:\Users\homec\PycharmProjects\ecommerce-test-framework\ui\pages" />
+      <recent name="C:\Users\homec\PycharmProjects\ecommerce-test-framework\api\tests" />
+      <recent name="C:\Users\homec\PycharmProjects\ecommerce-test-framework\api\shames" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\homec\PycharmProjects\ecommerce-test-framework\ui\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for ui.tests.test_cart_ui_datadriven.test_remove_item_from_cart">
+    <configuration name="Python tests for ui.tests.test_api_ui_integration.test_cart_badge_after_api_setup" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce-test-framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ui.tests.test_api_ui_integration.test_cart_badge_after_api_setup&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for ui.tests.test_cart_ui_datadriven.test_remove_item_from_cart" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce-test-framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ui.tests.test_cart_ui_datadriven.test_remove_item_from_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for ui.tests.test_e2e_flows.test_checkout_flow" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce-test-framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ui.tests.test_e2e_flows.test_checkout_flow&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for ui.tests.test_login.test_invalid_login_and_verify_error_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce-test-framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ui.tests.test_login.test_invalid_login_and_verify_error_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for ui.tests.test_login.test_successfully_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce-test-framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ui.tests.test_login.test_successfully_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for ui.tests.test_cart_ui_datadriven.test_remove_item_from_cart" />
+        <item itemvalue="Python tests.Python tests for ui.tests.test_api_ui_integration.test_cart_badge_after_api_setup" />
+        <item itemvalue="Python tests.Python tests for ui.tests.test_e2e_flows.test_checkout_flow" />
+        <item itemvalue="Python tests.Python tests for ui.tests.test_login.test_invalid_login_and_verify_error_message" />
+        <item itemvalue="Python tests.Python tests for ui.tests.test_login.test_successfully_login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e76991f6-90e3-4d42-93b6-0140f61151d2" name="Changes" comment="" />
+      <created>1776171214359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776171214359</updated>
+    </task>
+    <servers />
+  </component>
+</project>
