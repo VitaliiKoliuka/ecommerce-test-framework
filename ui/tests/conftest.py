@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 @pytest.fixture()
 def setup_playwright(playwright, request):
     headed = request.config.getoption("--headed", default=False)
-    browser = playwright.chromium.launch(headless=not headed)
+    browser = playwright.chromium.launch(headless=True)
     page = browser.new_page()
 
     try:
