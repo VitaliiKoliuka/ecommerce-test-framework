@@ -1,0 +1,56 @@
+name: Docker Test Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  docker-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Build and run tests inside Docker
+      - name: Run tests in Docker
+        run: |
+          docker compose up --build --abort-on-container-exit
+
+      # 3. Copy Allure results from container
+      - name: Copy Allure results
+        run: |
+          docker cp ecommerce-tests:/app/allure-results ./allure-results || true
+
+      # 4. Install Allure CLI
+      - name: Install Allure
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y default-jre wget unzip
+          wget https://github.com/allure-framework/allure2/releases/latest/download/allure-2.27.0.tgz
+          tar -zxvf allure-2.27.0.tgz
+          sudo mv allure-2.27.0 /opt/allure
+          sudo ln -s /opt/allure/bin/allure /usr/bin/allure
+
+      # 5. Generate Allure report
+      - name: Generate Allure report
+        run: |
+          allure generate allure-results --clean -o allure-report
+
+      # 6. Upload Allure report as artifact
+      - name: Upload Allure report
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-report
+          path: allure-report
+
+      # 7. Upload raw results (optional but useful)
+      - name: Upload Allure raw results
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          path: allure-results
+
