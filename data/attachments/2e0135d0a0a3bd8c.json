@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://dummyjson.com/products/1",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "188",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"title\": \"Open-architected multi-state toolset\", \"price\": 9417.26, \"description\": \"Reflect pressure describe road indicate.\", \"image\": \"https://i.pravatar.cc/100\", \"category\": \"clothing\"}"
+}

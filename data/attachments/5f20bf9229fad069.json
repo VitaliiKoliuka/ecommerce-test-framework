@@ -1,0 +1,47 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 18:08:11 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"129-ThHMUk3l48WIPXp7zHfPKN8Skus\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "99",
+    "x-ratelimit-reset": "1777399692",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=i22B5goxelNPru7%2Bg1w%2FzsJWOAKQMjivAZCw23tQlAlMSKzhSSLzLT%2FAFbNCaWPmyQBgLvh02vyhw60S6KCqd7o4FkFlvV4BN8lttjvzz7tRLF%2FCPoX6JvaJR78if%2Bh3\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "9f3802c2ddaff072-DFW"
+  },
+  "body": {
+    "id": 1,
+    "products": [
+      {
+        "id": 23,
+        "title": "Eggs",
+        "price": 2.99,
+        "quantity": 3,
+        "total": 8.97,
+        "discountPercentage": 11.05,
+        "discountedPrice": 8,
+        "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
+      }
+    ],
+    "total": 8.97,
+    "discountedTotal": 8,
+    "userId": 1,
+    "totalProducts": 1,
+    "totalQuantity": 3
+  }
+}

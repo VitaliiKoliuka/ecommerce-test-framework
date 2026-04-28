@@ -1,0 +1,46 @@
+{
+  "status_code": 201,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 18:08:10 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "310",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"136-1ZjW7rKH0bDCoiyjRD+zjiHDNDw\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "99",
+    "x-ratelimit-reset": "1777399692",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=NXOASv6VZVr7dnQtMzuEcYaLC48idLx3U32K02frD7mWoGsF%2B9w5umnO2%2F8t8y3Ek3WYXpywevjnZxRe8EqL%2FN6wSywruy05S0ukzckrto8NYBTxM%2BdJpfQF469F8nAf\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f3802c18b46f83f-ORD"
+  },
+  "body": {
+    "id": 209,
+    "products": [
+      {
+        "id": 59,
+        "title": "Glass",
+        "price": 4.99,
+        "quantity": 2,
+        "total": 9.98,
+        "discountPercentage": 7.92,
+        "discountedPrice": 9,
+        "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp"
+      }
+    ],
+    "total": 9.98,
+    "discountedTotal": 9,
+    "userId": 1,
+    "totalProducts": 1,
+    "totalQuantity": 2
+  }
+}

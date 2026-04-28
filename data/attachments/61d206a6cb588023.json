@@ -1,0 +1,33 @@
+{
+  "status_code": 201,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 18:08:12 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "138",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"8a-Cx9CVZd3RkP+hO2DiuJsmQNymWQ\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "98",
+    "x-ratelimit-reset": "1777399702",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=nnGCr4GF%2BAYTRPa8ADmLG0UhZTJ%2BbL8bD%2B0tJiUEenH%2FbvPWtYyOsUqMCyUGnO58JEvDg5m%2FZyXqdK1JFKG%2FMlGm5RZzYTtkKF6%2FW3nVtwqp0cRaxh2Cl7Jg1ibWQOBP\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f3802cf1bb7b165-ORD"
+  },
+  "body": {
+    "id": 195,
+    "title": "Smart Watch",
+    "price": 129.99,
+    "description": "Fitness smartwatch with heart rate monitor and GPS.",
+    "category": "wearables"
+  }
+}

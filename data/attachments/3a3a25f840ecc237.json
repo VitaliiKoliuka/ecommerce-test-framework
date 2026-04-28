@@ -1,0 +1,33 @@
+{
+  "status_code": 201,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 18:08:11 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "135",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"87-+bs9a7izbpNoeaSeD9uuGQ7s+Hs\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "99",
+    "x-ratelimit-reset": "1777399692",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=JjDn0lGrD3tu2Imfv5o6NPZPkvLbEfmxNsuP8iE87%2Bm1c1mn9qC4CrEjp%2B6Nh81TwGq%2B37eqhBu01gvqXNw55nXXnKqLtucRu7N2cabmFIVoUoxpkjWQUgg0gxGSNM7e\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f3802c7fa1d5af6-ORD"
+  },
+  "body": {
+    "id": 195,
+    "title": "Wireless Mouse",
+    "price": 25.99,
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "category": "electronic"
+  }
+}

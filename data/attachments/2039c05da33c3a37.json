@@ -1,0 +1,33 @@
+{
+  "status_code": 201,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 18:08:12 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "148",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"94-OESgPW6ncEVWbmVN1Gi7/9kTM7M\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "99",
+    "x-ratelimit-reset": "1777399702",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HR7SOPQ4srbG4PX1E9DyvrzrAVuoPFYl8t2ZdEBoM0yZfWSuE6NgtO42mKI7hZjhRkZ%2F%2BGsPP3un5l6qsyY4BZLm%2BjY%2FX2PWrPTfDcBlt2pEmmCPMgRkvMyhVknOgauh\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f3802ccbc6b8158-ORD"
+  },
+  "body": {
+    "id": 195,
+    "title": "Bluetooth Headphones",
+    "price": 79.99,
+    "description": "Noise-canceling over-ear headphones with deep bass.",
+    "category": "electronics"
+  }
+}

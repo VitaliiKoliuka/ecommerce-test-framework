@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://dummyjson.com/users/add",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "331",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"email\": \"kwashington@example.org\", \"username\": \"morenosuzanne\", \"password\": \"V_@8TgUTHH\", \"name\": {\"firstname\": \"Amber\", \"lastname\": \"Graham\"}, \"address\": {\"city\": \"Gibsonfurt\", \"street\": \"Cooper Shore\", \"number\": 99, \"zipcode\": \"98651\", \"geolocation\": {\"lat\": \"-87.9634785\", \"lng\": \"21.745811\"}}, \"phone\": \"(803)564-5153x62517\"}"
+}

@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://dummyjson.com/carts/add",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "78",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"userId\": \"1\", \"date\": \"2026-04-28\", \"products\": [{\"id\": 59, \"quantity\": 2}]}"
+}

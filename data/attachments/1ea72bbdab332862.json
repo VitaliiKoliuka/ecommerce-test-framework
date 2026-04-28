@@ -1,0 +1,33 @@
+{
+  "status_code": 201,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 18:08:12 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "137",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"89-ZNDPnaVMBp4ZNFrFcuoyMxYYa4M\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "99",
+    "x-ratelimit-reset": "1777399702",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kxFlXOZJunGvbjN5Ls6Klhk6AxscdFok9OBvpSGzmOnZuzIX3xsa6GUpROOm%2Bp8%2FUBd%2BVnxG9kRlwmjnow%2BCDFe3s1NWi43XBGhZUWXSfq5lM2dYkqOdN%2BMZ2aouvnPd\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f3802ca4a12c9d7-DFW"
+  },
+  "body": {
+    "id": 195,
+    "title": "Gaming Keyboard",
+    "price": 49.99,
+    "description": "Mechanical gaming keyboard with RGB backlight.",
+    "category": "electronic"
+  }
+}

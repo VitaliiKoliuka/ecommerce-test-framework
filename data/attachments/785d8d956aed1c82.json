@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://dummyjson.com/products/add",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "167",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"title\": \"Virtual 24/7 structure\", \"price\": 6.82, \"description\": \"Exactly color nation American me.\", \"image\": \"https://i.pravatar.cc/100\", \"category\": \"electronics\"}"
+}

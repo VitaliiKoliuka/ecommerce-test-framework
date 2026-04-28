@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://dummyjson.com/users/1",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "323",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"email\": \"amandagardner@example.net\", \"username\": \"vickie83\", \"password\": \"QeF0WJf0%N\", \"name\": {\"firstname\": \"Mary\", \"lastname\": \"Hall\"}, \"address\": {\"city\": \"Christopherport\", \"street\": \"Lindsey Inlet\", \"number\": 39, \"zipcode\": \"61756\", \"geolocation\": {\"lat\": \"22.1681575\", \"lng\": \"-141.172839\"}}, \"phone\": \"4432248232\"}"
+}

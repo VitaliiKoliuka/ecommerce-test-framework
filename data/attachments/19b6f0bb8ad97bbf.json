@@ -1,0 +1,29 @@
+{
+  "status_code": 404,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 18:08:12 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "45",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"2d-932UNqWWNmI6domsJulfwWhGGYw\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "99",
+    "x-ratelimit-reset": "1777399702",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=odScTW%2BtZN2QdIv4aGH%2BVLaWWRDS7Y16Lxqln%2FLrohpTdw50tI5xqkGtoaB2pcJhrn3gwkKZNG5VGWbxYiKKkhSdae8bugt%2BIsXrnhtQwVaLj6y%2Fxr2eg5o9ngUnN9GE\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f3802cddc44f08d-DFW"
+  },
+  "body": {
+    "message": "Product with id '195' not found"
+  }
+}
