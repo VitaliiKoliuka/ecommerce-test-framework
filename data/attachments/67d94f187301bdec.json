@@ -1,0 +1,46 @@
+{
+  "status_code": 201,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 14:59:30 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "351",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"15f-+WNwDNVCxg7FT+wGwa+XPE/jJ64\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "98",
+    "x-ratelimit-reset": "1777388372",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=D2IzsfnWsEuxzEVyZ6QZfFdpVK8o2pPK7Q4LBCVNau%2Bqlj%2BPbbJxFObmOBmDYDZIGTBgjiiswss4WXQdtoRuDt%2FQS3asKyY62WacIvq5M7dPMWzggrNEYZ7X7cia3vvQ\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f36ee657ee509cf-LAX"
+  },
+  "body": {
+    "id": 209,
+    "products": [
+      {
+        "id": 90,
+        "title": "Puma Future Rider Trainers",
+        "price": 89.99,
+        "quantity": 8,
+        "total": 719.92,
+        "discountPercentage": 4.2,
+        "discountedPrice": 690,
+        "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
+      }
+    ],
+    "total": 719.92,
+    "discountedTotal": 690,
+    "userId": 1,
+    "totalProducts": 1,
+    "totalQuantity": 8
+  }
+}

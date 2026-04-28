@@ -1,0 +1,33 @@
+{
+  "status_code": 201,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 14:59:35 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "161",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"a1-0Z2ZjExlzrTXNaj0zf21eE5jOsk\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "97",
+    "x-ratelimit-reset": "1777388382",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0dUmFusbMqDRejk%2FzDUfEwCpLX1QsuygAUuBZfN2Cq0ffSVM6gMGI2Z%2BhvMQtJ6egyBnKEhQ1R3AU1bvC8oGCdMukE23fvC1is7Ii0X2CZp1dASRZ7Wh0gW3WdMDy7aR\"}]}",
+    "Server": "cloudflare",
+    "CF-RAY": "9f36ee7f3cf4aef8-LAX"
+  },
+  "body": {
+    "id": 195,
+    "title": "Object-based asymmetric system engine",
+    "price": 16381.49,
+    "description": "Worker herself near personal industry stand.",
+    "category": "electronics"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://dummyjson.com/products/add",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "171",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"title\": \"Wireless Mouse\", \"price\": 25.99, \"description\": \"Ergonomic wireless mouse with adjustable DPI.\", \"image\": \"https://i.pravatar.cc/100\", \"category\": \"electronic\"}"
+}

@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://dummyjson.com/products/add",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "178",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"title\": \"Portable Speaker\", \"price\": 39.99, \"description\": \"Waterproof Bluetooth speaker with 12-hour battery life.\", \"image\": \"https://i.pravatar.cc/104\", \"category\": \"audio\"}"
+}

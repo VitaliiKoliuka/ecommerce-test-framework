@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://dummyjson.com/products/add",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "184",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"title\": \"Bluetooth Headphones\", \"price\": 79.99, \"description\": \"Noise-canceling over-ear headphones with deep bass.\", \"image\": \"https://i.pravatar.cc/102\", \"category\": \"electronics\"}"
+}

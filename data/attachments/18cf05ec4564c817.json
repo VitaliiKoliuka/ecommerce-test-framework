@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://dummyjson.com/products/add",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "174",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"title\": \"Smart Watch\", \"price\": 129.99, \"description\": \"Fitness smartwatch with heart rate monitor and GPS.\", \"image\": \"https://i.pravatar.cc/103\", \"category\": \"wearables\"}"
+}

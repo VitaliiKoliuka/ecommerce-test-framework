@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://dummyjson.com/users/1",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "335",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"email\": \"frankgriffin@example.org\", \"username\": \"johnsoncharles\", \"password\": \"v(i61rKm9n\", \"name\": {\"firstname\": \"Anne\", \"lastname\": \"Butler\"}, \"address\": {\"city\": \"Margaretstad\", \"street\": \"Joseph Ridge\", \"number\": 18, \"zipcode\": \"19495\", \"geolocation\": {\"lat\": \"-40.3203435\", \"lng\": \"-55.387117\"}}, \"phone\": \"(269)940-3929x39973\"}"
+}

@@ -1,0 +1,9 @@
+INFO     LoginPage:utils.py:15 Execution action: navigate_to with arguments ('https://www.saucedemo.com/',)
+INFO     LoginPage:utils.py:15 performing login
+INFO     LoginPage:utils.py:15 Execution action: type_text with arguments ('standard_user',)
+INFO     LoginPage:utils.py:15 Execution action: type_text with arguments ('secret_sauce',)
+INFO     LoginPage:utils.py:15 Execution action: click_element with arguments ()
+INFO     InventoryPage:utils.py:15 Execution action: click_element with arguments ()
+INFO     InventoryPage:utils.py:15 Execution action: click_element with arguments ()
+INFO     CartPage:utils.py:15 Execution action: click_element with arguments ()
+INFO     ui.tests.conftest:utils.py:15 closing browser

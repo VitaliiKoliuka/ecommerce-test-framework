@@ -1,0 +1,13 @@
+{
+  "method": "PUT",
+  "url": "https://dummyjson.com/products/1",
+  "headers": {
+    "User-Agent": "python-requests/2.33.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Length": "189",
+    "Content-Type": "application/json"
+  },
+  "body": "{\"title\": \"Cross-group regional interface\", \"price\": 7476.14, \"description\": \"Population avoid much himself strong mouth now.\", \"image\": \"https://i.pravatar.cc/100\", \"category\": \"clothing\"}"
+}

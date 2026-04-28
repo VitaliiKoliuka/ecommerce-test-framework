@@ -1,0 +1,42 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Tue, 28 Apr 2026 14:59:35 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "etag": "W/\"1aa-aRQdyf3ar71xmB5jeugabxwaEw8\"",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ratelimit-limit": "100",
+    "x-ratelimit-remaining": "99",
+    "x-ratelimit-reset": "1777388382",
+    "x-xss-protection": "1; mode=block",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KcBYpmDZsH41vyrzXBU88ZV1UvnUuCe%2BhXLBOaPO5PNAg1LZdmX2e342YIkwv0T7RBcr7weSL4ZNdJhpNhHwyaCTr1vlgIOWF0vBeVPmXntb8h%2F1mkegzPDpE9Vj%2B0GS\"}]}",
+    "Content-Encoding": "gzip",
+    "Server": "cloudflare",
+    "CF-RAY": "9f36ee8089bbc961-LAX"
+  },
+  "body": {
+    "id": 1,
+    "title": "Cross-group regional interface",
+    "price": 7476.14,
+    "discountPercentage": 10.48,
+    "stock": 99,
+    "rating": 2.56,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+    "description": "Population avoid much himself strong mouth now.",
+    "brand": "Essence",
+    "category": "clothing"
+  }
+}
