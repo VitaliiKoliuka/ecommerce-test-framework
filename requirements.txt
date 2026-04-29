@@ -13,6 +13,5 @@ pytest-xdist
 pytest-dependency
 pytest-rerunfailures
 playwright
-pytest
 pytest-playwright
 allure-pytest

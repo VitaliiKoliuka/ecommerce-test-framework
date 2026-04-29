@@ -23,4 +23,4 @@ class CartClient(APIClient):
 
     def delete_cart(self, cart_id):
         endpoint = Routes.DELETE_CART.format(id=cart_id)
-        return self.get(endpoint)
+        return self.delete(endpoint)

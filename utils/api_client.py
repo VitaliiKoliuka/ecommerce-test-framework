@@ -25,6 +25,12 @@ class APIClient:
         self._log(response)
         return response
 
+    def delete(self, endpoint, **kwargs):
+        url = self.BASE_URL + endpoint
+        response = requests.put(url, **kwargs)
+        self._log(response)
+        return response
+
     def _log(self, response):
         req = response.request
         logger.info(f"{req.method} {req.url}")

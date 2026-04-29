@@ -31,4 +31,4 @@ class UserClient(APIClient):
 
     def delete_user(self, user_id):
         endpoint = Routes.DELETE_USER.format(id=user_id)
-        return self.get(endpoint)
+        return self.delete(endpoint)

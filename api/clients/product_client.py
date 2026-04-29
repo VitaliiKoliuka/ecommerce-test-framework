@@ -42,4 +42,4 @@ class ProductClient(APIClient):
 
     def delete_product(self, product_id):
         endpoint = Routes.DELETE_PRODUCT.format(id=product_id)
-        return self.get(endpoint)
+        return self.delete(endpoint)
